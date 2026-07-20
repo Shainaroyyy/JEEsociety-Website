@@ -13,11 +13,11 @@ Watch the full walkthrough here:
 ---
 
 ## 🖼️ Preview
-(Add screenshots like these after uploading them in demo/screenshots)
 
-![Homepage](demo/screenshots/home.png)
-![Section](demo/screenshots/section.png)
-![Mobile View](demo/screenshots/mobile.png)
+
+![Homepage]()
+![Section]()
+![Mobile View]()
 
 ---
 
