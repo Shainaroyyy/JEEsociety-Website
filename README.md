@@ -12,15 +12,6 @@ Watch the full walkthrough here:
 
 ---
 
-## 🖼️ Preview
-
-
-![Homepage]()
-![Section]()
-![Mobile View]()
-
----
-
 ⭐ Key Highlights
 
 - Clean, modern and student-friendly interface  
